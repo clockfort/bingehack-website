@@ -273,8 +273,6 @@ div.page_title {
 div.page_title img.profile_image {
     float:left;
     margin:5px 11px 0 0;
-    border-bottom:#FFF 1px solid;
-    border-right:#FFF 1px solid;
 }
 
 /* availability */
@@ -475,6 +473,15 @@ div.get_in_touch {
     margin:0;
     padding:15px 20px;
 }
+
+div.donate {
+    float:left;
+    width:180px;
+    height:254px;
+    margin:0;
+    padding:15px 20px;
+}
+
 
 div.get_in_touch ul {
     margin:0 20px 0 0;
