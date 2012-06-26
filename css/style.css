@@ -331,6 +331,8 @@ div.portfolio ul li a {
 }
 
 div.portfolio ul li img {
+    border-radius:10px;
+    -moz-border-radius: 10px;
     border:#C0C0C0 1px solid;
     padding:1px;
 }
